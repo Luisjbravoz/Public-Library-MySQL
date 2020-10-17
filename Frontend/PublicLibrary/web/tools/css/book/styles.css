@@ -1,0 +1,36 @@
+.back {
+    background-image:url(../book/images/NewtonPL4.jpg);
+    width:auto;
+    height:170px;
+    background-size:cover;
+}
+
+.title {
+    font-size:80px;
+    color: goldenrod;
+    font-weight: lighter;
+}
+
+.subtitle {
+    font-size:32px;
+    font-weight: lighter;
+    color:rgb(148,75,34);
+}
+
+.header-row {
+    text-align: center;
+    font-weight: 600;
+}
+
+.body-table {
+    text-align: center;
+}
+
+.operation-button {
+    width:100%;
+    background-color:rgb(148,40,34);
+}
+
+.row-space {
+   padding:5px;
+}
